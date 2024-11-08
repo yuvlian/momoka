@@ -1,0 +1,12 @@
+OUTPUT_BASE = "./page/output/"
+
+INDEX_OUT_FILE = OUTPUT_BASE + "index.html"
+ANNOUNCER_INDEX_OUT_FILE = OUTPUT_BASE + "announcer.html"
+EGO_INDEX_OUT_FILE = OUTPUT_BASE + "ego.html"
+ITEM_INDEX_OUT_FILE = OUTPUT_BASE + "item.html"
+PERSONALITY_INDEX_OUT_FILE = OUTPUT_BASE + "personality.html"
+
+ANNOUNCERS_OUT_DIR = OUTPUT_BASE + "announcers/"
+EGOS_OUT_DIR = OUTPUT_BASE + "egos/"
+ITEMS_OUT_DIR = OUTPUT_BASE + "items/"
+PERSONALITIES_OUT_DIR = OUTPUT_BASE + "personalities/"
